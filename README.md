@@ -22,7 +22,7 @@ These are the projects that I am most proud of which used my skills of programmi
 ### [Ultimate Tic Tac Toe](https://tomekk2006.github.io/tictactoe/)
 ![image](https://github.com/user-attachments/assets/b741e6d2-5319-45c6-88d5-75e696f2cc2d)
 
-### [Fox Ambush](https://tomekk06.itch.io/fox-ambush)
+### [Games on itch.io](https://tomekk06.itch.io)
 ![image](https://github.com/user-attachments/assets/624fa22e-8c0d-4586-9c26-0ad7f51360f5)
 
 ### [Portfolio Website](https://tomekk2006.github.io/portfolio/)
