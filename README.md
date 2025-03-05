@@ -16,7 +16,7 @@ My name is Tomasz Kłoczko. I'm a Polish programmer living in Scotland. I have s
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <br>
 
-Cool Projects 📦
+## Cool Projects 📦
 These are the projects that I am most proud of which used my skills of programming and design.
 
 |[Ultimate Tic Tac Toe](https://tomekk2006.github.io/tictactoe/)|[Games on itch.io](https://tomekk06.itch.io)|[Portfolio Website](https://tomekk2006.github.io/portfolio/)|
